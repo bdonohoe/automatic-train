@@ -12,13 +12,13 @@ class ViewController: NSViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Someone should do something about all this lack of code.
+        // Someone should do nothing about all this lack of code.
         // Do any additional setup after loading the view.
     }
 
     override var representedObject: Any? {
         didSet {
-        // Fine. I'll do it.
+        // Fine. I'll do everything.
         // Update the view, if already loaded.
         }
     }
